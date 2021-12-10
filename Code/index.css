@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(193, 206, 211);
+}
+h1 {
+  color: rgb(48, 65, 43);
+  font-weight: bold;
+}
+h3 {
+  color: rgb(48, 65, 43);
+  font-weight: bold;
+}
+.container {
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 10%;
+  border: 1px solid rgb(163, 185, 165);
+  background-color: rgb(255, 255, 250);
+  font-family: "Poppins", sans-serif;
+  padding: 5%;
+  border-radius: 10px;
+}
